@@ -1,0 +1,3 @@
+rootProject.name = "PSB.Settings"
+include ':app'
+include ':psb:settings'
